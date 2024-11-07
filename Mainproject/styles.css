@@ -41,3 +41,20 @@
     border-radius: 60px;
     font-weight: 700;
 }
+
+.main{
+    background: url(./aqua.jpg/);
+        background-size: cover;
+        height: 100px;
+        background-position: 50% 50%;
+        width: 100%;
+
+}
+
+.bnt1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(248, 26, 92;
+}
